@@ -2,11 +2,12 @@
 - Ubuntu 22.04.4 (x64)
 - gcc 11.4.0
 # How to Use
+You can safely **ignore** any warnings in the compilation process.
 1. Compile
 	1. cd ./ssdsim
 	2. make clean
 	3. make all
-3. Run
+2. Run
 	1. execute ./ssd
 	2. input the name of trace file
 # What's the Difference
